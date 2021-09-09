@@ -2,6 +2,6 @@
 
  This is a test project to detect spam in messages
 
-##Data Set
+## Data Set
 
 Link: https://www.kaggle.com/uciml/sms-spam-collection-dataset
